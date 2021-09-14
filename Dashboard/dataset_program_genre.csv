@@ -1,0 +1,10 @@
+tag_genre,program_id,title,mean_age,count_episodes,mean_episode_duration,count_profile_adult,count_profile_kid,count_profile_home,count_profile_f,count_profile_m,count_profile_like,count_profile_not_like,count_profile_view,program_seconds_duration,total_seconds_viewed,seconds_viewed_liked,seconds_viewed_not_like,program_description,ratio_liked,tag_sous_genre_1,tag_sous_genre_2
+series,326,326,326,326,326,326,326,326,326,326,326,326,326,326,326,326,326,320,326,322,136
+jeunesse,285,285,285,285,285,285,285,285,285,285,285,285,285,285,285,285,285,283,285,284,191
+documentaire,249,249,249,249,249,249,249,249,249,249,249,249,249,249,249,249,249,244,249,248,96
+telefilms,248,248,248,248,248,248,248,248,248,248,248,248,248,248,248,248,248,240,248,227,67
+divertissement,195,195,195,195,195,195,195,195,195,195,195,195,195,195,195,195,195,188,195,181,32
+films,184,184,184,184,184,184,184,184,184,184,184,184,184,184,184,184,184,182,184,184,114
+magazine,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,55,50,55,54,3
+infos,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,30,32,26,1
+sport,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,7,9,9,0
